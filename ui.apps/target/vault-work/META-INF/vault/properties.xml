@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>bdemo - UI apps</comment>
+<entry key="allowIndexDefinitions">false</entry>
+<entry key="createdBy">HP</entry>
+<entry key="created">2021-03-16T11:23:49.617+05:30</entry>
+<entry key="groupId">com.mindtree</entry>
+<entry key="name">bdemo.ui.apps</entry>
+<entry key="description">UI apps package for bdemo</entry>
+<entry key="artifactId">bdemo.ui.apps</entry>
+<entry key="version">1.0-SNAPSHOT</entry>
+<entry key="packageType">mixed</entry>
+<entry key="requiresRoot">false</entry>
+<entry key="group">bdemo</entry>
+</properties>
